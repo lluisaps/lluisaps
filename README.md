@@ -1,8 +1,9 @@
-## Hi there 👋
+## Hi 👋
 
 - 🔭 I’m currently working on Java project
 - 🌱 I’m currently learning about AI
 - 📫 Email: luisapradoo24@gmail.com
+- 
 -->
 
 
