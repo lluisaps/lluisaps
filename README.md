@@ -1,4 +1,4 @@
-## Hi 👋
+## Hii, I'm Luisa. 👋
 
 - 🔭 I’m currently working on Java project
 - 🌱 I’m currently learning about AI
