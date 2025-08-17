@@ -3,7 +3,6 @@
 - 🔭 I’m currently working on a Java project
 - 🌱 I’m currently learning about AI 
 - 📫 Email: luisapradoo24@gmail.com
--->
 
 
   <picture align="center">
