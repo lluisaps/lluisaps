@@ -1,9 +1,9 @@
 ## Hii, I'm Luisa. 👋
 
-- 🔭 Atualmente estou terminando um projeto em Java
+- 🔭 Atualmente estou terminando um projeto em Java<br>
       I am currently finishing a project in Java
   
-- 🌱 Atualmente estou arrumando meu perfil aqui no git e adicionando alguns trabalhos :))
+- 🌱 Atualmente estou arrumando meu perfil aqui no git e adicionando alguns trabalhos :)) <br>
       I'm currently fixing my profile here on git and adding some work :))
   
 - 📫 Email: luisapradoo24@gmail.com
