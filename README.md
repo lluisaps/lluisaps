@@ -7,7 +7,7 @@
       I'm currently fixing my profile here on git and adding some work :))
   
 - 📫 Email: luisapradoo24@gmail.com
-
+- 📞 Telefone: (14)98819-7727
 
   <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lluisaps/lluisaps/output/github-contribution-grid-snake-dark.svg">
