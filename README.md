@@ -12,7 +12,7 @@
 - 📫 Email: luisapradoo24@gmail.com
 - 📞 Telefone: (14) 98819-7727
 
-### 🤖 Linguagens e Tecnologias
+### ✨ Linguagens e Tecnologias ✨
 
 <img 
     align="left" 
@@ -29,6 +29,14 @@
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+  align="left" 
+  alt="Java" 
+  title="Java"
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
 <img 
     align="left" 
