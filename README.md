@@ -3,8 +3,8 @@
 - 🔭 Atualmente estou terminando um projeto em Java<br>
       I am currently finishing a project in Java
   
-- 🌱 Atualmente estou organizando meu perfil aqui no git e adicionando alguns trabalhos :)) <br>
-      I'm currently fixing my profile here on git and adding some work :))
+- 🌱 No momento estou organizando meu perfil aqui no git e adicionando alguns trabalhos :)) <br>
+      Now I'm fixing my profile here on git and adding some work :))
   
 - 📫 Email: luisapradoo24@gmail.com
 - 📞 Telefone: (14) 98819-7727
