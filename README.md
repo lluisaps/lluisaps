@@ -3,6 +3,9 @@
 - 🔭 Atualmente estou terminando um projeto em Java<br>
       I am currently finishing a project in Java
   
+- 💻 Buscando uma oportunidade na Tecnologia<br>
+      Seeking new opportunities in Technology
+  
 - 🌱 No momento estou organizando meu perfil aqui no git e adicionando alguns trabalhos :)) <br>
       Now I'm fixing my profile here on git and adding some work :))
   
