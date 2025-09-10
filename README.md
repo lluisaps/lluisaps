@@ -9,6 +9,7 @@
 - 🌱 No momento estou organizando meu perfil aqui no git e adicionando alguns trabalhos :)) <br>
       Now I'm fixing my profile here on git and adding some work :))
   
+### 📞 Me encontre por aqui:
 - 📫 Email: luisapradoo24@gmail.com
 - 📞 Telefone: (14) 98819-7727
 
