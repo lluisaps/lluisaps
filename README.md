@@ -1,7 +1,7 @@
 ## Hii, I'm Luisa. 👋
 
-- 🔭 Atualmente estou terminando um projeto pessoal em Java<br>
-      I am currently finishing a project in Java
+- 🔭 No momento, estou finalizando um projeto pessoal em Java<br>
+      I am currently wrapping up a personal project in Java
   
 - 💻 Em busca de uma oportunidade na Tecnologia<br>
       Seeking new opportunities in Technology
