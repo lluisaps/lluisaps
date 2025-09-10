@@ -11,7 +11,7 @@
   
 ### 📞 Me encontre por aqui:
 - 📫 Email: luisapradoo24@gmail.com
-- 📞 Telefone: (14) 98819-7727
+- 📲 Telefone: (14) 98819-7727
 
 ### ✨ Linguagens e Tecnologias ✨
 
