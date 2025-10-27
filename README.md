@@ -2,6 +2,9 @@
 
 - 🔭 Atualmente, estou finalizando um projeto pessoal em Java<br>
       I am currently wrapping up a personal project in Java
+ 
+- 🌐 Estagiária em JavaScript e Java<br>
+       Internship in JavaScript and Java
   
 - 💻 Em busca de uma oportunidade na Tecnologia<br>
       Seeking new opportunities in Technology
