@@ -4,7 +4,7 @@
       I am currently wrapping up a personal project in Java
  
 - 🌐 Estagiária em desenvolvimento Java e JavaScript<br>
-       Internship in JavaScript Java and JavaScript
+       Internship in Java and JavaScript
   
 - 💻 Em busca de uma oportunidade na Tecnologia<br>
       Seeking new opportunities in Technology
